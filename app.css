@@ -1,0 +1,8 @@
+#dropzone {
+    border-radius: 10px;
+    border: 4px dashed gray;
+    padding: 40px;
+}
+#dropzone.over {
+    border-color: blue;
+}
